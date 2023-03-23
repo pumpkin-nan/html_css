@@ -124,7 +124,7 @@
 
 /* #endregion头导航end */
 
-/* #region内容区end */
+/* #region内容区start */
 .main-content {
   margin-top: 10px;
 }
@@ -312,3 +312,21 @@
 
 
 /* #endregion内容区end */
+
+
+/* #region秒杀start */
+.seckill {
+  margin-top: 10px;
+}
+
+.seckill img {
+  float: left;
+  margin-right: 11px;
+  cursor: pointer;
+}
+
+.seckill img:last-child {
+  margin-right: 0;
+}
+
+/* #endregion秒杀end */
